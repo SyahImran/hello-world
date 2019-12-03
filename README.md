@@ -1,2 +1,2 @@
 # hello-world
-first repository
+first repository with hello world program in java
